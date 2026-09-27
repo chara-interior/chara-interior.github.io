@@ -1,4 +1,4 @@
-# CHARA interior – private GitHub-Vorbereitung
+# CHARA interior – vorläufige GitHub-Vorschau
 
 Dies ist eine vorläufige, statische Website-Vorschau unter `https://chara-interior.github.io/`. Die rechtlichen Angaben sind ausdrücklich als unvollständig gekennzeichnet. Es wurden keine Geschäftsanschrift oder Unternehmenskennzeichen erfunden. Die Vorschau ist mit `noindex, nofollow` gekennzeichnet; das verhindert keine direkte öffentliche Erreichbarkeit.
 
